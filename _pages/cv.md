@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **Master’s in Computer Technology**
+  * Sun Yat-sen University
+  * Sept 2023 – Jun 2026
+  * Advisor: Prof. [Xiaoxi Zhang](https://0xxz.github.io/)
+* **Bachelor’s in Information Management**
+  
+  * Sun Yat-sen University
+  
+  * Sept 2019 – Jun 2023 
+  
+    
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* **Research assistant of Department of Computer Science**
+  * City University of Hong Kong
+  * Feb 2025 – Aug 2025
+  * Advisor: Prof. [Jinhang Zuo](https://jhzuo.github.io/)
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
+
+Competition and honors
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+
+- The First Prize Scholarships and the Second Prize Scholarship  2025, 2023, 2024
+- Silver Medal in China Collegiate Programming Contest for Girls  2022 
+- Silver Medal in International Genetically Engineered Machine Competition  2021
+
+
+
+Skills  
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
+* Programming Languages
+  * Python
+  * C++
+* English : CET-6 520
