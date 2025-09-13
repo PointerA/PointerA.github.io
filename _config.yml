@@ -30,7 +30,7 @@ author:
   location         : "Guangzhou, China"
   employer         : "SUN YAT-SEN UNIVERSITY"
   uri              : # URL
-  email            : "wutian@mail2.sysu.edu.cn" 
+  email            : "wutian [AT] mail2.sysu.edu.cn" 
 
   # Academic websites
   academia         : # URL
@@ -48,7 +48,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "https://github.com/PointerA"
+  github           : "PointerA"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
