@@ -1,7 +1,7 @@
 ---
 title: "Accelerating Edge Inference for Distributed MoE Models with Latency-Optimized Expert Placement"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper1
 excerpt: 'This paper introduce an efficient MoE inference framework that enables activation-aware expert placement across heterogeneous edge servers.'
 date: 18 Aug 2025

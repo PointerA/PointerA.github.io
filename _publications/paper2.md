@@ -1,7 +1,7 @@
 ---
 title: "PASTA: Training Acceleration for Vertical Federated Learning via Adaptive Pipeline Parallelism"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/paper2
 excerpt: 'This paper is a framework named PASTA to accelerate VFL training.'
 date: 02-04 July 2025
