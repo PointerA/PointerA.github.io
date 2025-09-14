@@ -13,11 +13,11 @@ redirect_from:
 
 Education
 ======
-* **Master’s in Computer Technology**
+* Master’s in Computer Technology
   * Sun Yat-sen University
   * Sept 2023 – Jun 2026
   * Advisor: Prof. [Xiaoxi Zhang](https://0xxz.github.io/)
-* **Bachelor’s in Information Management**
+* Bachelor’s in Information Management
   
   * Sun Yat-sen University
   
@@ -28,10 +28,17 @@ Education
 Work experience
 ======
 
-* **Research assistant of Department of Computer Science**
+* Research assistant of Department of Computer Science
   * City University of Hong Kong
   * Feb 2025 – Aug 2025
   * Advisor: Prof. [Jinhang Zuo](https://jhzuo.github.io/)
+
+
+
+Publications
+======
+
+The Publication list is in this [page](https://pointera.github.io/publications/).
 
 
 
