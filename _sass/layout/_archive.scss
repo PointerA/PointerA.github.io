@@ -75,10 +75,17 @@
   margin-bottom: 9px;
 }
 
-/* 作者姓名加粗样式 */
 .author-name {
-  font-weight: bold;
-  color: #2c3e50;
+  all: initial !important;
+  display: inline !important;
+  font-weight: bold !important;
+  color: #2c3e50 !important;
+}
+
+.page__meta .authors-list .author-name {
+  font-weight: bold !important;
+  color: #2c3e50 !important;
+  background-color: #f0f8ff !important;
 }
 
 .archive__item-teaser {
