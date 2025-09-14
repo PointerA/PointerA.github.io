@@ -32,5 +32,14 @@ author_profile: true
   {% endfor %}
 {% endif %}
 
-
-
+function boldAuthorName() {
+  const authorElements = document.querySelectorAll('.authors-list');
+  const yourName = "Tian Wu"
+  
+  authorElements.forEach(element => {
+      const html = element.innerHTML;
+      const regex = new RegExp(`\\b${yourName}\\b`, 'g');
+      element.innerHTML = html.replace(regex, `<span class="author-name">${yourName}</span>`);
+  });
+}
+document.addEventListener('DOMContentLoaded', boldAuthorName);

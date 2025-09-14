@@ -3,6 +3,7 @@ title: "VFL-Cafe: Communication-Efficient Vertical Federated Learning via Dynami
 collection: publications
 category: manuscripts
 permalink: /publication/paper3
+authors: Jiahui Zhou, Han Liang, Tian Wu, Xiaoxi Zhang, Yu Jiang, Chee Wei Tan
 excerpt: 'This work accelerates VFL training via caching and feature selection.'
 date: 14 January 2025
 venue: 'Entropy'

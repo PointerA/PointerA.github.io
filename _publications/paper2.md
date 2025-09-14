@@ -3,6 +3,7 @@ title: "PASTA: Training Acceleration for Vertical Federated Learning via Adaptiv
 collection: publications
 category: conferences
 permalink: /publication/paper2
+authors: Tian Wu, Weijie Liu, Han Liang, Ziwei Zhan, Jingpu Duan, Chuan Wu, Jinhang Zuo, Xu Chen, Xiaoxi Zhang
 excerpt: 'This paper is a framework named PASTA to accelerate VFL training.'
 date: 02-04 July 2025
 venue: '2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS)'

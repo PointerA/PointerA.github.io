@@ -3,6 +3,7 @@ title: "Accelerating Edge Inference for Distributed MoE Models with Latency-Opti
 collection: publications
 category: conferences
 permalink: /publication/paper1
+authors: Tian Wu, Liming Wang, Zijian Wen, Xiaoxi Zhang, Jingpu Duan, Xianwei Zhang, Jinhang Zuo
 excerpt: 'This paper introduce an efficient MoE inference framework that enables activation-aware expert placement across heterogeneous edge servers.'
 date: 18 Aug 2025
 venue: 'Arxiv'

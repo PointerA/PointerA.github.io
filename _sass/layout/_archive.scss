@@ -66,6 +66,21 @@
   }
 }
 
+.authors-list {
+  font-style: italic;
+  color: #666;
+}
+
+.page__meta.authors {
+  margin-bottom: 8px;
+}
+
+/* 作者姓名加粗样式 */
+.author-name {
+  font-weight: bold;
+  color: #2c3e50;
+}
+
 .archive__item-teaser {
   border-radius: $border-radius;
   overflow: hidden;
