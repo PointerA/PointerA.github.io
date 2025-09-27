@@ -8,7 +8,7 @@ excerpt: 'This paper is a framework named PASTA to accelerate VFL training.'
 date: 02-04 July 2025
 venue: '2025 IEEE/ACM 33rd International Symposium on Quality of Service (IWQoS)'
 # slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
+paperurl: 'https://ieeexplore.ieee.org/document/11143476'
 # citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
