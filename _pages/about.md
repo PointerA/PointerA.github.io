@@ -13,6 +13,6 @@ I am truly grateful to be advised by Prof. [Xiaoxi Zhang](https://0xxz.github.io
 
 
 
-<span style="color:red;">New: </span>  **I am actively seeking fully-funded Ph.D. opportunity starting in Fall 2026 or Spring 2027, and am also open to research intern positions.** Please feel free to reach out if you would like to explore potential collaborations or opportunities.
+<!-- <span style="color:red;">New: </span>  **I am actively seeking fully-funded Ph.D. opportunity starting in Fall 2026 or Spring 2027, and am also open to research intern positions.** Please feel free to reach out if you would like to explore potential collaborations or opportunities. -->
 
 My CV can be found [here](https://pointera.github.io/cv/).
